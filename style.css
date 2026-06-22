@@ -19,7 +19,6 @@ header{
 }
 nav{
     width: 60%;
-    top: 50%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -40,7 +39,6 @@ nav{
 main{
   
     width: 100%;
-    top: 100px;
 }
 .info{
   display: flex;
